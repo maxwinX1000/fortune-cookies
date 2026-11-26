@@ -1,6 +1,6 @@
 import os
 
-LINE = "You will ship on Friday. The bug will wait until Monday to introduce itself."
+LINE = "You will pass the benchmark and fail the actual task. The benchmark will get the promotion."
 MAX_CHARS = 200
 
 if len(LINE) > MAX_CHARS:
